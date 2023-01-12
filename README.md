@@ -27,6 +27,7 @@
   4. The topic documents are a narrative review where we organize the papers by some topics that we identify as important. This will grow and change as we learn more about the subject. 
   5. As we read and write, we will add new articles to the database from the references in the papers we read, or from citing papers, or related papers, and augment the topic documents with these new citations.
   6. We can use the topic documents to generate training data for NLP tools to help tell us how relevant new articles in steps 1 and 2 are.
+
 # Tools to implement this
 
 [[workflows]]

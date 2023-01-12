@@ -25,7 +25,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "documents.md",
+=======
+                "file": "README.md",
+>>>>>>> refs/remotes/origin/main
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +102,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "documents.md",
+=======
+                "file": "README.md",
+>>>>>>> refs/remotes/origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "documents.md",
+=======
+                "file": "README.md",
+>>>>>>> refs/remotes/origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "documents.md"
+=======
+                "file": "README.md"
+>>>>>>> refs/remotes/origin/main
               }
             }
           }
@@ -161,9 +177,15 @@
   },
   "active": "c11da7f0595812cc",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "bibliography.md",
     "workflows.md",
     "documents.md",
+=======
+    "workflows.md",
+    "documents.md",
+    "bibliography.md",
+>>>>>>> refs/remotes/origin/main
     "README.md",
     "topics/screening-studies.md",
     "literature-review-notes/@koolen-2022-from-singl.md",
