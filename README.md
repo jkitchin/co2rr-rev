@@ -16,8 +16,8 @@ The format of these is also quite heterogeneous, ranging from highly structured 
 
 1. A process is run that may be semi-automated at collecting potential articles from a variety of sources for review. The review here is based on the received information, which may be just authors, title and abstract. Eventually I think NLP tools will be useful at prioritizing this set of articles to indicate which ones are likely to be interesting, but ultimately a person should decide if it is discarded, or moved to the second stage.
   2. This is a more detailed review that usually requires looking at the actual article, even if it is just skimmed. The decision here is do we collect bibliography data for the article into our database. 
-  3. For articles that go into the database, we should read the paper enough to decide why it is important to the review. Then we should cite the article in one of the topic documents. 
-  4. The topic documents are a narrative review where we organize the papers by some topics that we identify as important. This will grow and change as we learn more about the subject. 
+  3. For articles that go into the database, we should read the paper enough to decide why it is important to the review. Then we should cite the article in one of the topic documents and create a notes document for that paper. 
+  4. The topic documents are a narrative review where we organize the papers by some topics that we identify as important. This will grow and change as we learn more about the subject. These documents could also include historical narratives as they develop.
   5. As we read and write, we will add new articles to the database from the references in the papers we read, or from citing papers, or related papers, and augment the topic documents with these new citations.
   6. We can use the topic documents to generate training data for NLP tools to help tell us how relevant new articles in steps 1 and 2 are.
   
@@ -25,8 +25,8 @@ This would happen in a team effort, presumably where each person plans a fixed e
 
 # Tools to implement this
 
-[workflows](workflows.md)
-[bibliography](bibliography.md)
-[documents](documents.md)
-[challenges](challenges.md)
-[nuisances](nuisances.md)
+- [workflows](workflows.md)
+- [bibliography](bibliography.md)
+- [documents](documents.md)
+- [challenges](challenges.md)
+- [nuisances](nuisances.md)
