@@ -25,8 +25,8 @@ This would happen in a team effort, presumably where each person plans a fixed e
 
 # Tools to implement this
 
-[](workflows.md)
-[](bibliography.md)
-[](documents.md)
-[](challenges.md)
-[](nuisances.md)
+[workflows](workflows.md)
+[bibliography](bibliography.md)
+[documents](documents.md)
+[challenges](challenges.md)
+[nuisances](nuisances.md)
