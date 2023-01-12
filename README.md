@@ -11,6 +11,8 @@ Literature review is hard.  The sources of potentially interesting literature ar
 5. Recommendations from colleagues, collaborators
 The format of these is also quite heterogeneous, ranging from highly structured to plain text.  At this stage there are a lot of possible articles, and we have to sift through them quickly to get to a set that is probably something we should spend time on. We have to read these at some level, and collect the important ones into a bibliography database. The collection is not enough though, we also need to organize them into topics that use narrative writing to put the papers into context that is valuable to us. This while process is iterative, because while reading/writing we may uncover new papers to review, or new topics to search for etc. It is also an ongoing process because new papers are regularly published, and because we must pace ourselves as we get into new areas. The process might look something like this:
 
+(Annoyingly this does not render on GH, seems to be a limitation on Obsidian...)
+
 ![[Pasted image 20230111201940.png]]
 
 1. A process is run that may be semi-automated at collecting potential articles from a variety of sources for review. Eventually I think NLP tools will be useful at prioritizing this set of articles to indicate which ones are likely to be interesting, but ultimately a person should decide if it is discarded, or moved to the second stage. The review here is based on the received information, which may be just authors, title and abstract.
