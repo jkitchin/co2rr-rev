@@ -19,7 +19,7 @@
 -
 - This works in logseq at least on the Desktop app.
 -
-- ![plt](/media/Pasted image 20230111201940.png)
+![plt](/media/Pasted image 20230111201940.png)
 -
 - 1. A process is run that may be semi-automated at collecting potential articles from a variety of sources for review. Eventually I think NLP tools will be useful at prioritizing this set of articles to indicate which ones are likely to be interesting, but ultimately a person should decide if it is discarded, or moved to the second stage. The review here is based on the received information, which may be just authors, title and abstract.
   2. This is a more detailed review that usually requires looking at the actual article, even if it is just skimmed. The decision here is do we collect bibliography data for the article into our database. 
